@@ -1,4 +1,4 @@
-tableextension 50100 VendorExt extends Vendor
+tableextension 50200 VendorExt extends Vendor
 {
     fields
     {
